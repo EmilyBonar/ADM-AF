@@ -10,4 +10,5 @@
 		<Item Name="Alpha Task Msg.lvclass" Type="LVClass" URL="../Alpha Task Msg/Alpha Task Msg.lvclass"/>
 	</Item>
 	<Item Name="Alpha.lvclass" Type="LVClass" URL="../Alpha/Alpha.lvclass"/>
+	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
 </Library>

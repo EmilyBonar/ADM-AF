@@ -13,4 +13,8 @@
 		<Item Name="Log Event Msg.lvclass" Type="LVClass" URL="../Log Event Msg/Log Event Msg.lvclass"/>
 	</Item>
 	<Item Name="ADM AF.lvclass" Type="LVClass" URL="../ADM AF/ADM AF.lvclass"/>
+	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
+	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
+	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
+	<Item Name="Solenoid.lvclass" Type="LVClass" URL="../Solenoid/Solenoid.lvclass"/>
 </Library>
