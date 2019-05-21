@@ -17,4 +17,5 @@
 	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
 	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
 	<Item Name="Solenoid.lvclass" Type="LVClass" URL="../Solenoid/Solenoid.lvclass"/>
+	<Item Name="Stage.lvclass" Type="LVClass" URL="../Stage/Stage.lvclass"/>
 </Library>
