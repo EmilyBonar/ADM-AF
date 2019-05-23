@@ -52,6 +52,8 @@
 		<Item Name="Feeder Actor.lvlib" Type="Library" URL="../Feeder Actor/Feeder Actor.lvlib"/>
 		<Item Name="Stage Actor.lvlib" Type="Library" URL="../Stage Actor/Stage Actor.lvlib"/>
 		<Item Name="ADS Actor.lvlib" Type="Library" URL="../ADS Actor/ADS Actor.lvlib"/>
+		<Item Name="MFC Actor.lvlib" Type="Library" URL="../MFC Actor/MFC Actor.lvlib"/>
+		<Item Name="Pressure Actor.lvlib" Type="Library" URL="../Pressure Actor/Pressure Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>

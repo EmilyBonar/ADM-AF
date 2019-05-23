@@ -4,5 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Messages for ADS" Type="Folder"/>
 	<Item Name="ADS.lvclass" Type="LVClass" URL="../ADS/ADS.lvclass"/>
 </Library>

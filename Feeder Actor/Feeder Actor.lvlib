@@ -14,7 +14,10 @@
 	<Item Name="Messages for Mixer" Type="Folder">
 		<Item Name="Change Mixer Speed Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Change Mixer Speed Msg/Change Mixer Speed Msg.lvclass"/>
 	</Item>
+	<Item Name="Messages for Screw" Type="Folder"/>
+	<Item Name="Messages for Solenoid" Type="Folder"/>
 	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
 	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
 	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
+	<Item Name="Solenoid.lvclass" Type="LVClass" URL="../Solenoid/Solenoid.lvclass"/>
 </Library>
