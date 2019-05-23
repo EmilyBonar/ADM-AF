@@ -11,4 +11,6 @@
 		<Item Name="Change Mixer State.lvclass" Type="LVClass" URL="../Feeder Messages/Task Msg/Change Mixer State.lvclass"/>
 	</Item>
 	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
+	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
+	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
 </Library>
