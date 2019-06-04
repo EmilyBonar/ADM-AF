@@ -37,7 +37,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
-	<Item Name="Change Speed.vi" Type="VI" URL="../Change Speed.vi">
+	<Item Name="Change Screw Speed.vi" Type="VI" URL="../Change Screw Speed.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$R!!!!"1!%!!!!/%"Q!"Y!!#5617.U&lt;X)A2H*B&lt;76X&lt;X*L,GRW&lt;'FC$5&amp;D&gt;'^S,GRW9WRB=X-!#5&amp;D&gt;'^S)'^V&gt;!!,1!9!"6.D=G6X!%Z!=!!?!!!C%E:F:72F=C""9X2P=CZM&gt;GRJ9AV49X*F&gt;SZM&gt;G.M98.T!!!A2G6F:'6S)%&amp;D&gt;'^S,GRW&lt;'FC/F.D=G6X,GRW9WRB=X-!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!Q!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!)!!!!!!%!"!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>

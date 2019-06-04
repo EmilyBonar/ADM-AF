@@ -10,9 +10,11 @@
 </Property>
 	<Item Name="Messages for Feeder" Type="Folder"/>
 	<Item Name="Messages for Mixer" Type="Folder">
-		<Item Name="Change Speed Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Change Speed Msg/Change Speed Msg.lvclass"/>
+		<Item Name="Change Mixer Speed Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Change Speed Msg/Change Mixer Speed Msg.lvclass"/>
 	</Item>
-	<Item Name="Messages for Screw" Type="Folder"/>
+	<Item Name="Messages for Screw" Type="Folder">
+		<Item Name="Change Screw Speed Msg.lvclass" Type="LVClass" URL="../Screw Messages/Change Screw Speed Msg/Change Screw Speed Msg.lvclass"/>
+	</Item>
 	<Item Name="Messages for Solenoid" Type="Folder"/>
 	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
 	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>

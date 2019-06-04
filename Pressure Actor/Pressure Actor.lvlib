@@ -4,5 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Chamber Pressure.lvclass" Type="LVClass" URL="../Chamber Pressure/Chamber Pressure.lvclass"/>
+	<Item Name="Feeder Pressure.lvclass" Type="LVClass" URL="../Feeder Pressure/Feeder Pressure.lvclass"/>
 	<Item Name="Pressure.lvclass" Type="LVClass" URL="../Pressure/Pressure.lvclass"/>
+	<Item Name="Read Pressure Msg.lvclass" Type="LVClass" URL="../Pressure Messages/Read Pressure Msg/Read Pressure Msg.lvclass"/>
 </Library>
