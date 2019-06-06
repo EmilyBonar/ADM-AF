@@ -332,6 +332,9 @@
 				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
 			</Item>
+			<Item Name="instr.lib" Type="Folder">
+				<Item Name="Sierra Instruments Smart-Trak 100 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Sierra Instruments Smart-Trak 100 Series/Sierra Instruments Smart-Trak 100 Series.lvlib"/>
+			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
