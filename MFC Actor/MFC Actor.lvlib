@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for MFC" Type="Folder"/>
+	<Item Name="Messages for MFC" Type="Folder">
+		<Item Name="Change Setpoint Msg.lvclass" Type="LVClass" URL="../MFC Messages/Change Setpoint Msg/Change Setpoint Msg.lvclass"/>
+	</Item>
 	<Item Name="MFC.lvclass" Type="LVClass" URL="../MFC/MFC.lvclass"/>
 </Library>
