@@ -20,4 +20,5 @@
 	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
 	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
 	<Item Name="Solenoid.lvclass" Type="LVClass" URL="../Solenoid/Solenoid.lvclass"/>
+	<Item Name="Switch Solenoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Switch Solenoid Msg/Switch Solenoid Msg.lvclass"/>
 </Library>
