@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages for MFC" Type="Folder">
 		<Item Name="Change Setpoint Msg.lvclass" Type="LVClass" URL="../MFC Messages/Change Setpoint Msg/Change Setpoint Msg.lvclass"/>
+		<Item Name="Read Flow Msg.lvclass" Type="LVClass" URL="../MFC Messages/Read Flow Msg/Read Flow Msg.lvclass"/>
 	</Item>
 	<Item Name="MFC.lvclass" Type="LVClass" URL="../MFC/MFC.lvclass"/>
 </Library>
