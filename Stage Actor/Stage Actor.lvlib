@@ -9,6 +9,8 @@
 </Property>
 	<Item Name="Messages for Stage" Type="Folder">
 		<Item Name="Read Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Position Msg/Read Position Msg.lvclass"/>
+		<Item Name="Set Axis Speed Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Axis Speed Msg/Set Axis Speed Msg.lvclass"/>
+		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
 	</Item>
 	<Item Name="Stage.lvclass" Type="LVClass" URL="../Stage/Stage.lvclass"/>
 </Library>
