@@ -8,6 +8,8 @@
 
 </Property>
 	<Item Name="Messages for Stage" Type="Folder">
+		<Item Name="Home Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Home Stage Msg/Home Stage Msg.lvclass"/>
+		<Item Name="Read Digital Outputs Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Digital Outputs Msg/Read Digital Outputs Msg.lvclass"/>
 		<Item Name="Read Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Position Msg/Read Position Msg.lvclass"/>
 		<Item Name="Set Axis Speed Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Axis Speed Msg/Set Axis Speed Msg.lvclass"/>
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>

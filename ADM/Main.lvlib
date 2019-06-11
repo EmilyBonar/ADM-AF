@@ -12,7 +12,6 @@
 	<Item Name="Messages for Main" Type="Folder"/>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Initialize Subpanels.vi" Type="VI" URL="../../SubVIs/Initialize Subpanels.vi"/>
-		<Item Name="Random Task Name.vi" Type="VI" URL="../../SubVIs/Random Task Name.vi"/>
 	</Item>
 	<Item Name="Main.lvclass" Type="LVClass" URL="../ADM/Main.lvclass"/>
 </Library>
