@@ -15,8 +15,6 @@
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
-		<Item Name="Action.ctl" Type="VI" URL="../SubVI/Action.ctl"/>
-		<Item Name="Get XYZ.vi" Type="VI" URL="../SubVI/Get XYZ.vi"/>
 		<Item Name="Move.vi" Type="VI" URL="../SubVI/Move.vi"/>
 		<Item Name="Parse String Array.vi" Type="VI" URL="../SubVI/Parse String Array.vi"/>
 		<Item Name="Zaber A Series XYZ List.vi" Type="VI" URL="../SubVI/Zaber A Series XYZ List.vi"/>
