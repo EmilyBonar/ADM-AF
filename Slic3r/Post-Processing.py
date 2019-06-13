@@ -47,5 +47,6 @@ with open(filename + '.csv', 'w', newline='') as f:
         #print("{} {} {} {} {} {}".format(X,Y,Z,feeder,current_tool,speed))
         if "G1" in command or "G0" in command:
             writer.writerow([X,Y,Z,theta, phi, feeder,current_tool,speed])
+    f.close()
 #print(stripped)
 #gcode = f.read()
