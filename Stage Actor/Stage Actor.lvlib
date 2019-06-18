@@ -12,6 +12,8 @@
 		<Item Name="Read Digital Outputs Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Digital Outputs Msg/Read Digital Outputs Msg.lvclass"/>
 		<Item Name="Read Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Position Msg/Read Position Msg.lvclass"/>
 		<Item Name="Set Axis Speed Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Axis Speed Msg/Set Axis Speed Msg.lvclass"/>
+		<Item Name="Stage Polling Loop Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stage Polling Loop Msg/Stage Polling Loop Msg.lvclass"/>
+		<Item Name="Stage Printing Loop Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stage Printing Loop Msg/Stage Printing Loop Msg.lvclass"/>
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
