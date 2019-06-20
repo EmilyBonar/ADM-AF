@@ -1,7 +1,6 @@
 def gcode2csv(gcode_file):
     import sys
     import csv
-    import os
     
     f = open(gcode_file, 'r')
 
@@ -21,12 +20,11 @@ def gcode2csv(gcode_file):
     phi = 0
 
     filename = gcode_file
-    #os.chmod(filename.partition('.')[0]+ '.csv', 0777)
+
     while '\\' in filename:
         filename = filename.rpartition('\\')[2]
 
     filename = filename.partition('.')[0]
-    #os.chmod(gcode_file, 0777)
     with open(filename + '.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         for command in stripped:
@@ -46,10 +44,7 @@ def gcode2csv(gcode_file):
                 feeder = 1
             else:
                 feeder = 0
-            #print("{} {} {} {} {} {}".format(X,Y,Z,feeder,current_tool,speed))
             if "G1" in command or "G0" in command:
                 writer.writerow([X,Y,Z,theta, phi, feeder,current_tool,speed])
         f.close()
-    #print(stripped)
-    #gcode = f.read()
     return(filename + '.csv')
