@@ -2,7 +2,7 @@
 <LVClass LVVersion="18008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Stage Actor.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Stage Actor.lvlib</Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;5R&lt;B."&amp;-&lt;RTQAB7N]!_1KP4)=MJ+3B=E8`LO!WI8+"%/W4/)'PY#N]6X",[3MM`RF0D!.3D!12&amp;.HV/,P@\,TZ?8?UE@LW7HKJ[&gt;,W[N(NN`J&lt;F6\JY&gt;F^``&amp;Q/D_&lt;@BJ`D0KH$@YR\81;X-OXLO.&amp;:`X4A`'`TP`(P_`2`AO&lt;HL@H\&gt;^ONR=8[:/PW:H;CYBG7N'3&amp;GJ4439XO=F.&lt;H+4&amp;XG2&amp;XG2&amp;XG2*XG3*XG3*XG3"XG1"XG1"XG1^ZV=Z#)8/31TO:H)&amp;$5&amp;T-61:,[-RXC-RXAYF@%9D`%9D`&amp;QC9T(?)T(?)S(94)?YT%?YT%?3H7*_U[/RXAIL]*4?!J0Y3E]4+H#5Q#+S9L#22%9+DK,A]*4?!I0BSI]B;@Q&amp;*\#1\=+4_%J0)7H]$#EXZ8KGL;4Y['-%E`C34S**`&amp;17IEH]33?R*.YG%[**`%EC'4#J$A%*9/3#Z+4R*.Y_+0%EXA34_**0(4V*Z4^TD2.W]HR"*\!%XA#4_#BB!*0Y!E]A3@Q5&amp;;"*`!%HM!4?*B+A3@Q"*Y!%ET+^!K+"1/$CY)A]0$JKS8[5[IOC&lt;Z,9`&amp;K,%K.R;;RC$17B]:$VXC9'A^*Y_:LX&amp;3.G[6R%T2_H!:;![-RC=&lt;A&gt;K%/@/^J/^K7NK'N;3P;EL;AT&gt;P1PXTBY8$1@L`8&lt;L@4&gt;LP6:L02?LX7;L83=LH59L(1@$Y`P1&lt;?M*^?#-@XUCX(L8X_&gt;H8XZ&gt;X&lt;W;@L$\/0\W^G8[_P\O\\7HOC`[8`Q&lt;N2,X2?FXPU(@PS9WU!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*-!!!*Q(C=\&gt;5R4C."%)8B:Y11K7_!@)5+S6&lt;73GR#Z)C]LO$5&lt;/1!I5V,YA3_AK^16X#[I;^A`GY8NB%32A)%!4-U?&amp;ZX6X_?;1V30][F5WW/(7?P(G`M&lt;X6[L8[^OXLKLU&amp;V@2$NZW_D`N-G0_MYWX@WUNN""`W&lt;:`.@LP`O\`&gt;+`Z&amp;$0]@0]&lt;8(\/AG`@1^/V"\%&gt;'3&amp;D3HG&gt;J3GS20]C20]C20]C!0]C!0]C!0=C&gt;X=C&gt;X=C&gt;X=C-X=C-X=C-X]H[3CVTE)I?5,*YMF"2.#C3$I3DZF8A34_**0&amp;QK]33?R*.Y%A^$F(A34_**0)G(;5I]C3@R**\%1[EOS8[3YUE]F&amp;@A#4S"*`!%(J:5Y!E!Q7*"Y;!)$!7&gt;Q9@!%XA#$R]6?!*0Y!E]A9&gt;O":\!%XA#4_"B3L]LU48N*-&gt;$'4E?R_.Y()`DI&lt;1=D_.R0)\(]&lt;#=()`D=2$/AEZR#()G/1/=#]@D?0ADR_.Y()`D=4RU^3@E`=YU44P*]2A?QW.Y$)`BI91-D_%R0)&lt;(]&amp;"7BM@Q'"\$9XB93I&lt;(]"A?!W)MSP)SCBE4D5&amp;'9(DY[&lt;P&amp;_F/+,L&amp;_3L6Z6:N3N&gt;F5GUCV/6108@5Q61^*&gt;@.6.V6VMV1X1@8F6'A62L7);H)&lt;K$7`6\1F&lt;5'&lt;U[;U#7V-'^''&lt;?I($VSPVVKN6FIOFVIM&amp;JL0ZZJ/JZJ-*BK0RRK.2BI/B\P8Q!8H\I7Q@3`._.T;`@`,WX_`@QXOLGY'@[``$"[O,G_@_FL\J0_FX_$&gt;K"-&gt;VO5?01+9P'.N!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.14</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
@@ -137,5 +137,14 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
+	<Item Name="Parse Gcode.vi" Type="VI" URL="../Parse Gcode.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%O!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!B%6.U97&gt;F)%&amp;D&gt;'^S,GRW&lt;'FC$6.U97&gt;F,GRW9WRB=X-!(V.U97&gt;F)%&amp;D&gt;'^S,GRW&lt;'FC/F.U97&gt;F,GRW9WRB=X-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!;1$,`````%&amp;*F971A1W^P=G2J&lt;G&amp;U:8-!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!&amp;!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821075</Property>
 	</Item>
 </LVClass>

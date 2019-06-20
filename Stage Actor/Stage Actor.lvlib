@@ -18,6 +18,7 @@
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
 		<Item Name="Test VI Msg.lvclass" Type="LVClass" URL="../Stage Messages/Test VI Msg/Test VI Msg.lvclass"/>
 		<Item Name="Move to Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Move to Position Msg/Move to Position Msg.lvclass"/>
+		<Item Name="Parse Gcode Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Gcode Msg/Parse Gcode Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Move.vi" Type="VI" URL="../SubVI/Move.vi"/>
