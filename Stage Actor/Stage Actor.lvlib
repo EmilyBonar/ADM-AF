@@ -13,10 +13,7 @@
 		<Item Name="Read Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Position Msg/Read Position Msg.lvclass"/>
 		<Item Name="Set Axis Speed Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Axis Speed Msg/Set Axis Speed Msg.lvclass"/>
 		<Item Name="Home Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Home Stage Msg/Home Stage Msg.lvclass"/>
-		<Item Name="Stage Polling Loop Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stage Polling Loop Msg/Stage Polling Loop Msg.lvclass"/>
-		<Item Name="Stage Printing Loop Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stage Printing Loop Msg/Stage Printing Loop Msg.lvclass"/>
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
-		<Item Name="Test VI Msg.lvclass" Type="LVClass" URL="../Stage Messages/Test VI Msg/Test VI Msg.lvclass"/>
 		<Item Name="Move to Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Move to Position Msg/Move to Position Msg.lvclass"/>
 		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Gcode Msg/Parse Coords Msg.lvclass"/>
 	</Item>
