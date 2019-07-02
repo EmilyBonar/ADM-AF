@@ -18,11 +18,11 @@
 		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Gcode Msg/Parse Coords Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
-		<Item Name="Absolute to Relative.vi" Type="VI" URL="../SubVI/Absolute to Relative.vi"/>
 		<Item Name="Move.vi" Type="VI" URL="../SubVI/Move.vi"/>
 		<Item Name="Parse String Array.vi" Type="VI" URL="../SubVI/Parse String Array.vi"/>
 		<Item Name="Saved Position Configuration.vi" Type="VI" URL="../SubVI/Saved Position Configuration.vi"/>
 		<Item Name="Zaber A Series XYZ List.vi" Type="VI" URL="../SubVI/Zaber A Series XYZ List.vi"/>
+		<Item Name="Zero Coords.vi" Type="VI" URL="../SubVI/Zero Coords.vi"/>
 	</Item>
 	<Item Name="Stage.lvclass" Type="LVClass" URL="../Stage/Stage.lvclass"/>
 </Library>
