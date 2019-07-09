@@ -54,7 +54,6 @@
 		<Item Name="ADS Actor.lvlib" Type="Library" URL="../ADS Actor/ADS Actor.lvlib"/>
 		<Item Name="MFC Actor.lvlib" Type="Library" URL="../MFC Actor/MFC Actor.lvlib"/>
 		<Item Name="Pressure Actor.lvlib" Type="Library" URL="../Pressure Actor/Pressure Actor.lvlib"/>
-		<Item Name="Print Type Def.ctl" Type="VI" URL="../Stage Actor/Stage/Print Type Def.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -342,7 +341,6 @@
 				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
-				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>

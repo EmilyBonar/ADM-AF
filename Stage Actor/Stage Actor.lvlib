@@ -16,10 +16,12 @@
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
 		<Item Name="Move to Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Move to Position Msg/Move to Position Msg.lvclass"/>
 		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Gcode Msg/Parse Coords Msg.lvclass"/>
+		<Item Name="End Print Msg.lvclass" Type="LVClass" URL="../Stage Messages/End Print Msg/End Print Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Move.vi" Type="VI" URL="../SubVI/Move.vi"/>
 		<Item Name="Parse String Array.vi" Type="VI" URL="../SubVI/Parse String Array.vi"/>
+		<Item Name="Print Type Def.ctl" Type="VI" URL="../Stage/Print Type Def.ctl"/>
 		<Item Name="Saved Position Configuration.vi" Type="VI" URL="../SubVI/Saved Position Configuration.vi"/>
 		<Item Name="Zaber A Series XYZ List.vi" Type="VI" URL="../SubVI/Zaber A Series XYZ List.vi"/>
 		<Item Name="Zero Coords.vi" Type="VI" URL="../SubVI/Zero Coords.vi"/>
