@@ -10,6 +10,8 @@
 
 </Property>
 	<Item Name="Messages for Main" Type="Folder">
+		<Item Name="Start Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Start Printing Msg/Start Printing Msg.lvclass"/>
+		<Item Name="Stop Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Stop Printing Msg/Stop Printing Msg.lvclass"/>
 		<Item Name="Switch Solenoid Feedthrough Msg.lvclass" Type="LVClass" URL="../Main Messages/Switch Solenoid Feedthrough Msg/Switch Solenoid Feedthrough Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">

@@ -10,6 +10,7 @@
 </Property>
 	<Item Name="Messages for Feeder" Type="Folder">
 		<Item Name="Switch Solenoid Feedthrough Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Switch Solenoid Feedthrough Msg/Switch Solenoid Feedthrough Msg.lvclass"/>
+		<Item Name="Start Print Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Start Print Msg/Start Print Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Mixer" Type="Folder">
 		<Item Name="Change Mixer Speed Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Change Speed Msg/Change Mixer Speed Msg.lvclass"/>
