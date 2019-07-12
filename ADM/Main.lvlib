@@ -15,6 +15,7 @@
 		<Item Name="Switch Solenoid Feedthrough Msg.lvclass" Type="LVClass" URL="../Main Messages/Switch Solenoid Feedthrough Msg/Switch Solenoid Feedthrough Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
+		<Item Name="Config.vi" Type="VI" URL="../ADM/Config.vi"/>
 		<Item Name="Initialize Subpanels.vi" Type="VI" URL="../../SubVIs/Initialize Subpanels.vi"/>
 	</Item>
 	<Item Name="Main.lvclass" Type="LVClass" URL="../ADM/Main.lvclass"/>
