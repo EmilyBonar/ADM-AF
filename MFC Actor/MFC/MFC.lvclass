@@ -47,13 +47,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="MFC Launcher.vi" Type="VI" URL="../MFC Launcher.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!"Q!%!!!!5E"Q!"Y!!$!617.U&lt;X)A2H*B&lt;76X&lt;X*L,GRW&lt;'FC'%VF=X.B:W5A27ZR&gt;76V:8)O&lt;(:D&lt;'&amp;T=Q!!&amp;UZF=X2F:#""9X2P=C&gt;T)%6O=86F&gt;76S!$*!=!!?!!!:#EVB;7YO&lt;(:M;7)-47&amp;J&lt;CZM&gt;G.M98.T!!^197ZF&lt;#""9X2P=C"0&gt;81!&amp;E"Q!!A!!!""!!!*5X6C)&amp;"B&lt;G6M!#6!&amp;A!##EFO&lt;G6S)%:M&lt;X=+4X6U:8)A2GRP&gt;Q!'45:$)%F%!!!S1(!!(A!!'1J.97FO,GRW&lt;'FC$%VB;7YO&lt;(:D&lt;'&amp;T=Q!/5'&amp;O:7QA17.U&lt;X)A37Y!!'%!]!!-!!!!!!!"!!)!!!!!!!!!!!!!!!-!"!!&amp;!Q!!?!!!!!!!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!9!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'\!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;*!=!!?!!!Q&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9BB.:8.T97&gt;F)%6O=86F&gt;76S,GRW9WRB=X-!!"&gt;/:8.U:71A17.U&lt;X)H=S"&amp;&lt;H&amp;V:86F=A!S1(!!(A!!'1J.97FO,GRW&lt;'FC$%VB;7YO&lt;(:D&lt;'&amp;T=Q!05'&amp;O:7QA17.U&lt;X)A4X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"Q!!A!!!""!!!*5X6C)&amp;"B&lt;G6M!#6!&amp;A!##EFO&lt;G6S)%:M&lt;X=+4X6U:8)A2GRP&gt;Q!'45:$)%F%!!!S1(!!(A!!'1J.97FO,GRW&lt;'FC$%VB;7YO&lt;(:D&lt;'&amp;T=Q!/5'&amp;O:7QA17.U&lt;X)A37Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!A!#1!+!Q!!?!!!#1!!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#A!!!!A!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="MFC Polling Loop.vi" Type="VI" URL="../MFC Polling Loop.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#C!!!!!Q!%!!!!1E"Q!"Y!!"U045:$)%&amp;D&gt;'^S,GRW&lt;'FC#UV'1SZM&gt;G.M98.T!"N.2E-A17.U&lt;X)O&lt;(:M;7)[45:$,GRW9WRB=X-!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!1!#!!!!!!</Property>
@@ -65,7 +65,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
 	</Item>
 	<Item Name="Read Flow.vi" Type="VI" URL="../Read Flow.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%-!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%*!=!!?!!!&gt;$UV'1S""9X2P=CZM&gt;GRJ9AN.2E-O&lt;(:D&lt;'&amp;T=Q!&lt;45:$)%&amp;D&gt;'^S,GRW&lt;'FC/EV'1SZM&gt;G.M98.T!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!5$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!"Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%-!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%*!=!!?!!!&gt;$UV'1S""9X2P=CZM&gt;GRJ9AN.2E-O&lt;(:D&lt;'&amp;T=Q!&lt;45:$)%&amp;D&gt;'^S,GRW&lt;'FC/EV'1SZM&gt;G.M98.T!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!5$!!"Y!!!*!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!"Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
