@@ -437,7 +437,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Aerosol Deposition Machine/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{92E6F2F5-2EA8-4BBD-9040-9B7DAE168DB2}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{27744171-E902-4F8D-B325-197C0DBF9BA7}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ADM Launcher.lvlib/Splash Screen.vi</Property>
@@ -472,7 +472,15 @@
 				<Property Name="Source[7].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[7].type" Type="Str">Library</Property>
-				<Property Name="SourceCount" Type="Int">8</Property>
+				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[8].itemID" Type="Ref">/My Computer/ADM Launcher.lvlib</Property>
+				<Property Name="Source[8].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[8].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[8].type" Type="Str">Library</Property>
+				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Stage Actor.lvlib/SubVI/PostProcessing.py</Property>
+				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">10</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Aerosol Deposition Machine</Property>
 				<Property Name="TgtF_internalName" Type="Str">Aerosol Deposition Machine</Property>

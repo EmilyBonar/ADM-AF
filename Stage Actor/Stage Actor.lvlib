@@ -21,6 +21,7 @@
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Move.vi" Type="VI" URL="../SubVI/Move.vi"/>
 		<Item Name="Parse String Array.vi" Type="VI" URL="../SubVI/Parse String Array.vi"/>
+		<Item Name="PostProcessing.py" Type="Document" URL="../../Slic3r/PostProcessing.py"/>
 		<Item Name="Print Type Def.ctl" Type="VI" URL="../Stage/Print Type Def.ctl"/>
 		<Item Name="Zaber A Series XYZ List.vi" Type="VI" URL="../SubVI/Zaber A Series XYZ List.vi"/>
 		<Item Name="Zero Coords.vi" Type="VI" URL="../SubVI/Zero Coords.vi"/>
