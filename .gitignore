@@ -3,4 +3,5 @@
 *.csv
 *.gcode
 *.stl
+*.txt
 builds/
