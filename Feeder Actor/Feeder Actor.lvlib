@@ -12,12 +12,18 @@
 		<Item Name="Switch Solenoid Feedthrough Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Switch Solenoid Feedthrough Msg/Switch Solenoid Feedthrough Msg.lvclass"/>
 		<Item Name="Start Print Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Start Print Msg/Start Print Msg.lvclass"/>
 		<Item Name="Stop Print Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Stop Print Msg/Stop Print Msg.lvclass"/>
+		<Item Name="Set Feeder Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Set Feeder Msg/Set Feeder Msg.lvclass"/>
+		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Mixer" Type="Folder">
 		<Item Name="Set Mixer Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Change Mixer Msg/Set Mixer Msg.lvclass"/>
+		<Item Name="Mixer Print Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Mixer Print Msg/Mixer Print Msg.lvclass"/>
+		<Item Name="Set Mixer Printing Speed Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Set Mixer Printing Speed Msg/Set Mixer Printing Speed Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Screw" Type="Folder">
 		<Item Name="Set Screw Msg.lvclass" Type="LVClass" URL="../Screw Messages/Change Screw Msg/Set Screw Msg.lvclass"/>
+		<Item Name="Screw Print Msg.lvclass" Type="LVClass" URL="../Screw Messages/Screw Print Msg/Screw Print Msg.lvclass"/>
+		<Item Name="Set Screw Printing Speed Msg.lvclass" Type="LVClass" URL="../Screw Messages/Set Screw Printing Speed Msg/Set Screw Printing Speed Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Solenoid" Type="Folder">
 		<Item Name="Switch Solenoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Switch Solenoid Msg/Switch Solenoid Msg.lvclass"/>

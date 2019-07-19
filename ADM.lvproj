@@ -409,7 +409,6 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Dummy Actor Method.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/MessageMakerProvider/_Message Maker/_templates/Message Template/Dummy Actor Method.vi"/>
 			<Item Name="Custom Menu.rtm" Type="Document" URL="../My Application/My Application/Custom Menu.rtm"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
