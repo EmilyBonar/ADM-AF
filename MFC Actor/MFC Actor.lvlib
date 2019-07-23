@@ -7,6 +7,7 @@
 	<Item Name="Messages for MFC" Type="Folder">
 		<Item Name="Change Setpoint Msg.lvclass" Type="LVClass" URL="../MFC Messages/Change Setpoint Msg/Change Setpoint Msg.lvclass"/>
 		<Item Name="Read Flow Msg.lvclass" Type="LVClass" URL="../MFC Messages/Read Flow Msg/Read Flow Msg.lvclass"/>
+		<Item Name="Set Print Msg.lvclass" Type="LVClass" URL="../MFC Messages/Set Print Msg/Set Print Msg.lvclass"/>
 		<Item Name="Set Printing Flow Msg.lvclass" Type="LVClass" URL="../MFC Messages/Set Printing Flow Msg/Set Printing Flow Msg.lvclass"/>
 	</Item>
 	<Item Name="MFC.lvclass" Type="LVClass" URL="../MFC/MFC.lvclass"/>

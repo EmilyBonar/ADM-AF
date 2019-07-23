@@ -11,6 +11,7 @@
 </Property>
 	<Item Name="Messages for Main" Type="Folder">
 		<Item Name="Launch Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Launch Actors Msg/Launch Actors Msg.lvclass"/>
+		<Item Name="Set Print Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Print Msg/Set Print Msg.lvclass"/>
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
 		<Item Name="Start Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Start Printing Msg/Start Printing Msg.lvclass"/>
 		<Item Name="Stop Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Stop Printing Msg/Stop Printing Msg.lvclass"/>
