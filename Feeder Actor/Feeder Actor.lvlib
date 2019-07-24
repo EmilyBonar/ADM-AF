@@ -33,4 +33,5 @@
 	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
 	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
 	<Item Name="Solenoid.lvclass" Type="LVClass" URL="../Solenoid/Solenoid.lvclass"/>
+	<Item Name="Counter.lvclass" Type="LVClass" URL="../Counter/Counter.lvclass"/>
 </Library>
