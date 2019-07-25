@@ -9,7 +9,6 @@
 
 </Property>
 	<Item Name="Messages for Feeder" Type="Folder">
-		<Item Name="Switch Solenoid Feedthrough Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Switch Solenoid Feedthrough Msg/Switch Solenoid Feedthrough Msg.lvclass"/>
 		<Item Name="Set Feeder Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Set Feeder Msg/Set Feeder Msg.lvclass"/>
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
 		<Item Name="Print Reset Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Print Reset Msg/Print Reset Msg.lvclass"/>

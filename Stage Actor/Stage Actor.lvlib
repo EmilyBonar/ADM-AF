@@ -15,7 +15,7 @@
 		<Item Name="Home Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Home Stage Msg/Home Stage Msg.lvclass"/>
 		<Item Name="Stop Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Stop Stage Msg/Stop Stage Msg.lvclass"/>
 		<Item Name="Move to Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Move to Position Msg/Move to Position Msg.lvclass"/>
-		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Gcode Msg/Parse Coords Msg.lvclass"/>
+		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Coords Msg/Parse Coords Msg.lvclass"/>
 		<Item Name="End Print Msg.lvclass" Type="LVClass" URL="../Stage Messages/End Print Msg/End Print Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">

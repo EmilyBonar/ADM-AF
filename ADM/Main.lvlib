@@ -10,12 +10,12 @@
 
 </Property>
 	<Item Name="Messages for Main" Type="Folder">
+		<Item Name="Aerosol Opened Msg.lvclass" Type="LVClass" URL="../Main Messages/Aerosol Opened Msg/Aerosol Opened Msg.lvclass"/>
 		<Item Name="Launch Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Launch Actors Msg/Launch Actors Msg.lvclass"/>
 		<Item Name="Set Flow Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Flow Msg/Set Flow Msg.lvclass"/>
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
 		<Item Name="Start Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Start Printing Msg/Start Printing Msg.lvclass"/>
 		<Item Name="Stop Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Stop Printing Msg/Stop Printing Msg.lvclass"/>
-		<Item Name="Switch Solenoid Feedthrough Msg.lvclass" Type="LVClass" URL="../Main Messages/Switch Solenoid Feedthrough Msg/Switch Solenoid Feedthrough Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Config.vi" Type="VI" URL="../ADM/Config.vi"/>
