@@ -37,23 +37,14 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
-	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Y!.`````]!#2A!A!!!!!!"!!1!!!!"!!!!!!!!!$2!=!!6"&amp;2B=WM!!!%!"16/352"52A!A!!!!!!"!!1!!!!"!!!!!!!!#(2B=WMA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!.`````]!$BA!A!!!!!!"!!1!!!!"!!!!!!!!%8"I?8.J9W&amp;M)'.I97ZO:7RT!&amp;1!]!!-!!-!"!!%!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!%+!!!!!!%!#1!!!!!</Property>
+	<Item Name="Pressure Launcher.vi" Type="VI" URL="../Pressure Launcher.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'C!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;*!=!!?!!!Q&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9BB.:8.T97&gt;F)%6O=86F&gt;76S,GRW9WRB=X-!!"&gt;/:8.U:71A17.U&lt;X)H=S"&amp;&lt;H&amp;V:86F=A!S1(!!(A!!'1J.97FO,GRW&lt;'FC$%VB;7YO&lt;(:D&lt;'&amp;T=Q!05'&amp;O:7QA17.U&lt;X)A4X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"Q!!A!!!""!!!*5X6C)&amp;"B&lt;G6M!!R!-0````]#351!!$*!=!!?!!!:#EVB;7YO&lt;(:M;7)-47&amp;J&lt;CZM&gt;G.M98.T!!Z197ZF&lt;#""9X2P=C"*&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!+!!!##!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-	</Item>
-	<Item Name="Pressure Launcher.vi" Type="VI" URL="../Pressure Launcher.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;*!=!!?!!!Q&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9BB.:8.T97&gt;F)%6O=86F&gt;76S,GRW9WRB=X-!!"&gt;/:8.U:71A17.U&lt;X)H=S"&amp;&lt;H&amp;V:86F=A!S1(!!(A!!'1J.97FO,GRW&lt;'FC$%VB;7YO&lt;(:D&lt;'&amp;T=Q!05'&amp;O:7QA17.U&lt;X)A4X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"Q!!A!!!""!!!*5X6C)&amp;"B&lt;G6M!#&amp;!&amp;A!#"U.I97VC:8)'2G6F:'6S!!!*5W6O=W^S)%F%!$*!=!!?!!!:#EVB;7YO&lt;(:M;7)-47&amp;J&lt;CZM&gt;G.M98.T!!Z197ZF&lt;#""9X2P=C"*&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!*!!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!+!!!!#!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Read Pressure.vi" Type="VI" URL="../Read Pressure.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!F&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!F"9X2P=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"71(!!(A!!*R21=G6T=X6S:3""9X2P=CZM&gt;GRJ9B"1=G6T=X6S:3ZM&gt;G.M98.T!#61=G6T=X6S:3""9X2P=CZM&gt;GRJ9DJ1=G6T=X6S:3ZM&gt;G.M98.T!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!)!!!!!!%!#!!!!!!</Property>
