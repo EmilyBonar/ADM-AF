@@ -47,7 +47,7 @@
 			<Item Name="Actor Framework.html" Type="Document" URL="../documentation/Actor Framework.html"/>
 			<Item Name="Actor Framework Whitepaper.html" Type="Document" URL="../documentation/Actor Framework Whitepaper.html"/>
 		</Item>
-		<Item Name="ADM Launcher.lvlib" Type="Library" URL="../ADM Launcher/ADM Launcher.lvlib"/>
+		<Item Name="Splash Screen.vi" Type="VI" URL="../ADM Launcher/Splash Screen.vi"/>
 		<Item Name="Main.lvlib" Type="Library" URL="../ADM/Main.lvlib"/>
 		<Item Name="Feeder Actor.lvlib" Type="Library" URL="../Feeder Actor/Feeder Actor.lvlib"/>
 		<Item Name="Stage Actor.lvlib" Type="Library" URL="../Stage Actor/Stage Actor.lvlib"/>
@@ -439,7 +439,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{D264DF6C-0E07-4845-B475-FAF7586FE0DC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ADM Launcher.lvlib/Splash Screen.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Splash Screen.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[10].destinationIndex" Type="Int">0</Property>
@@ -475,7 +475,7 @@
 				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[7].type" Type="Str">Library</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[8].itemID" Type="Ref">/My Computer/ADM Launcher.lvlib</Property>
+				<Property Name="Source[8].itemID" Type="Ref"></Property>
 				<Property Name="Source[8].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[8].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[8].type" Type="Str">Library</Property>
