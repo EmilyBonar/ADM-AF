@@ -453,7 +453,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Custom Menu.rtm" Type="Document" URL="../My Application/My Application/Custom Menu.rtm"/>
-			<Item Name="Zero Coords.vi" Type="VI" URL="../Stage Actor/SubVI/Zero Coords.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
