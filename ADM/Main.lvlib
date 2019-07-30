@@ -22,6 +22,6 @@
 		<Item Name="Initialize Subpanels.vi" Type="VI" URL="../../SubVIs/Initialize Subpanels.vi"/>
 		<Item Name="Task Manager.vi" Type="VI" URL="../ADM/Task Manager.vi"/>
 	</Item>
-	<Item Name="config.txt" Type="Document" URL="../../config.txt"/>
+	<Item Name="config.ini" Type="Document" URL="../../config.ini"/>
 	<Item Name="Main.lvclass" Type="LVClass" URL="../ADM/Main.lvclass"/>
 </Library>
