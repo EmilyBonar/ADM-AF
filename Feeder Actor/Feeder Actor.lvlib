@@ -27,6 +27,7 @@
 		<Item Name="Switch Solenoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Switch Solenoid Msg/Switch Solenoid Msg.lvclass"/>
 		<Item Name="Set Solonoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Set Solonoid Msg/Set Solonoid Msg.lvclass"/>
 	</Item>
+	<Item Name="Set Counter Msg.lvclass" Type="LVClass" URL="../Counter Messages/Set Counter Msg/Set Counter Msg.lvclass"/>
 	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
 	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
 	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
