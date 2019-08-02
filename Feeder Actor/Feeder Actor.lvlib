@@ -13,24 +13,16 @@
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
 		<Item Name="Print Reset Msg.lvclass" Type="LVClass" URL="../Feeder Messages/Print Reset Msg/Print Reset Msg.lvclass"/>
 	</Item>
-	<Item Name="Messages for Mixer" Type="Folder">
-		<Item Name="Mixer Print Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Mixer Print Msg/Mixer Print Msg.lvclass"/>
-		<Item Name="Set Mixer Printing Speed Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Set Mixer Printing Speed Msg/Set Mixer Printing Speed Msg.lvclass"/>
-		<Item Name="Set Mixer Msg.lvclass" Type="LVClass" URL="../Mixer Messages/Set Mixer Msg/Set Mixer Msg.lvclass"/>
-	</Item>
-	<Item Name="Messages for Screw" Type="Folder">
-		<Item Name="Screw Print Msg.lvclass" Type="LVClass" URL="../Screw Messages/Screw Print Msg/Screw Print Msg.lvclass"/>
-		<Item Name="Set Screw Printing Speed Msg.lvclass" Type="LVClass" URL="../Screw Messages/Set Screw Printing Speed Msg/Set Screw Printing Speed Msg.lvclass"/>
-		<Item Name="Set Screw Msg.lvclass" Type="LVClass" URL="../Screw Messages/Set Screw Msg/Set Screw Msg.lvclass"/>
-	</Item>
 	<Item Name="Messages for Solenoid" Type="Folder">
 		<Item Name="Switch Solenoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Switch Solenoid Msg/Switch Solenoid Msg.lvclass"/>
 		<Item Name="Set Solonoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Set Solonoid Msg/Set Solonoid Msg.lvclass"/>
 	</Item>
-	<Item Name="Set Counter Msg.lvclass" Type="LVClass" URL="../Counter Messages/Set Counter Msg/Set Counter Msg.lvclass"/>
+	<Item Name="Messages for Counter" Type="Folder">
+		<Item Name="Print Msg.lvclass" Type="LVClass" URL="../Counter Messages/Print Msg/Print Msg.lvclass"/>
+		<Item Name="Set Printing Speed Msg.lvclass" Type="LVClass" URL="../Counter Messages/Set Printing Speed Msg/Set Printing Speed Msg.lvclass"/>
+		<Item Name="Set Counter Msg.lvclass" Type="LVClass" URL="../Counter Messages/Set Counter Msg/Set Counter Msg.lvclass"/>
+	</Item>
 	<Item Name="Feeder.lvclass" Type="LVClass" URL="../Feeder/Feeder.lvclass"/>
-	<Item Name="Mixer.lvclass" Type="LVClass" URL="../Mixer/Mixer.lvclass"/>
-	<Item Name="Screw.lvclass" Type="LVClass" URL="../Screw/Screw.lvclass"/>
 	<Item Name="Solenoid.lvclass" Type="LVClass" URL="../Solenoid/Solenoid.lvclass"/>
 	<Item Name="Counter.lvclass" Type="LVClass" URL="../Counter/Counter.lvclass"/>
 </Library>
