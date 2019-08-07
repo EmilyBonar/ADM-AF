@@ -438,6 +438,7 @@
 				<Item Name="MGI Create Directory Chain.vi" Type="VI" URL="/&lt;userlib&gt;/_MGI/File/MGI Create Directory Chain.vi"/>
 				<Item Name="MGI RWA Write Strings to File.vi" Type="VI" URL="/&lt;userlib&gt;/_MGI/Read Write Anything/MGI RWA Write Strings to File.vi"/>
 				<Item Name="MGI Write Anything.vi" Type="VI" URL="/&lt;userlib&gt;/_MGI/Read Write Anything/MGI Write Anything.vi"/>
+				<Item Name="MGI Wrap String to Character Width.vi" Type="VI" URL="/&lt;userlib&gt;/_MGI/String/MGI Wrap String to Character Width.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Sierra Instruments Smart-Trak 100 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Sierra Instruments Smart-Trak 100 Series/Sierra Instruments Smart-Trak 100 Series.lvlib"/>
