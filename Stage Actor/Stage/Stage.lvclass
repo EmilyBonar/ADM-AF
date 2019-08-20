@@ -148,7 +148,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Printing Loop XYZ.vi" Type="VI" URL="../Printing Loop XYZ.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&lt;!!!!%!!%!!!!"1!+!!!51%!!!P``````````!!%#7&amp;E!!!N!#A!&amp;6'BF&gt;'%!'E"!!!,``````````Q!$#62I:82B)&amp;"I;1!41!)!$%.V=H*F&lt;H1A6'^P&lt;!!!'E"!!!(`````!!5-1X6S=G6O&gt;#"5&lt;W^M!!!,1!I!"6.Q:76E!"*!1!!"`````Q!("6.Q:76E!"*!)1R':76E:8)A5X2B&gt;'5!!"J!1!!"`````Q!*$%:F:72F=C"4&gt;'&amp;U:1!!$E"!!!(`````!!="7A!?1&amp;!!"A!#!!1!"A!)!!I!#QJ1=GFO&gt;#"%982B!!!B1(!!)!!"!!Q!&amp;'2B&gt;'%A&gt;G&amp;M&gt;75A=G6G:8*F&lt;G.F!!![1(!!(A!!)2&amp;4&gt;'&amp;H:3""9X2P=CZM&gt;GRJ9AV4&gt;'&amp;H:3ZM&gt;G.M98.T!!Z4&gt;'&amp;H:3""9X2P=C"J&lt;A!!6!$Q!!Q!!!!!!!!!$1!!!!!!!!!!!!!!!!!!!!Y$!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!1!0!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">256</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
@@ -156,7 +156,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
-	<Item Name="XYZ List.vi" Type="VI" URL="../XYZ List.vi">
+	<Item Name="XYZ Print.vi" Type="VI" URL="../XYZ Print.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!#Q!?!$@`````!!19!)!!!!!!!1!%!!!!!1!!!!!!!!!Y1(!!$A6*&lt;H.U=A!"!!!9!)!!!!!!!1!%!!!!!1!!!!!!!"*736.")(*F=W^V=G.F)'ZB&lt;75!!!1!!!!]1(!!$A6*&lt;H.U=A!"!!!9!)!!!!!!!1!%!!!!!1!!!!!!!":736.")(*F=W^V=G.F)'ZB&lt;75A&lt;X6U!!!&amp;!!I!!""!1!!"`````Q!%!VB:7A!:1!I!%EVJ9X*P=X2F=#"4;8JF)#AQ+1!!&amp;5!+!!Z4='6F:#!I&lt;7UP=VYS+1!!%%!Q`````Q:4&gt;(*J&lt;G=!!#*!1!!#``````````]!#""%:8:J9W5A97ZE)%&amp;Y;8-A!!"M!0!!%!!"!!)!!A!#!!-!"1!#!!9!!A!(!!)!#1!#!!)!!A!#!Q!"#!!!#A!!!!!!!!!!!!!!!!!!!!U!!!))!!!!!!!!!!A!!!!!!!!!#!!!!!!!!!))!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
