@@ -12,7 +12,6 @@
 	<Item Name="Messages for Main" Type="Folder">
 		<Item Name="Aerosol Opened Msg.lvclass" Type="LVClass" URL="../Main Messages/Aerosol Opened Msg/Aerosol Opened Msg.lvclass"/>
 		<Item Name="Launch Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Launch Actors Msg/Launch Actors Msg.lvclass"/>
-		<Item Name="Print Switch Finished Msg.lvclass" Type="LVClass" URL="../Main Messages/Print Switch Finished Msg/Print Switch Finished Msg.lvclass"/>
 		<Item Name="Quit Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Quit Actors Msg/Quit Actors Msg.lvclass"/>
 		<Item Name="Set Flow Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Flow Msg/Set Flow Msg.lvclass"/>
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
