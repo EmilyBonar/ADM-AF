@@ -54,6 +54,7 @@
 		<Item Name="ADS Actor.lvlib" Type="Library" URL="../ADS Actor/ADS Actor.lvlib"/>
 		<Item Name="MFC Actor.lvlib" Type="Library" URL="../MFC Actor/MFC Actor.lvlib"/>
 		<Item Name="Pressure Actor.lvlib" Type="Library" URL="../Pressure Actor/Pressure Actor.lvlib"/>
+		<Item Name="Physical Channels.ctl" Type="VI" URL="../ADM/ADM/Physical Channels.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>

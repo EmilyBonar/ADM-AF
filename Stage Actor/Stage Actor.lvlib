@@ -17,6 +17,7 @@
 		<Item Name="Move to Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Move to Position Msg/Move to Position Msg.lvclass"/>
 		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Coords Msg/Parse Coords Msg.lvclass"/>
 		<Item Name="End Print Msg.lvclass" Type="LVClass" URL="../Stage Messages/End Print Msg/End Print Msg.lvclass"/>
+		<Item Name="Set Digital Inputs Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Digital Inputs Msg/Set Digital Inputs Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Extract Print Line.vi" Type="VI" URL="../SubVI/Extract Print Line.vi"/>
