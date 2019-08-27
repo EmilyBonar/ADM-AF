@@ -51,10 +51,8 @@
 		<Item Name="Main.lvlib" Type="Library" URL="../ADM/Main.lvlib"/>
 		<Item Name="Feeder Actor.lvlib" Type="Library" URL="../Feeder Actor/Feeder Actor.lvlib"/>
 		<Item Name="Stage Actor.lvlib" Type="Library" URL="../Stage Actor/Stage Actor.lvlib"/>
-		<Item Name="ADS Actor.lvlib" Type="Library" URL="../ADS Actor/ADS Actor.lvlib"/>
 		<Item Name="MFC Actor.lvlib" Type="Library" URL="../MFC Actor/MFC Actor.lvlib"/>
 		<Item Name="Pressure Actor.lvlib" Type="Library" URL="../Pressure Actor/Pressure Actor.lvlib"/>
-		<Item Name="Physical Channels.ctl" Type="VI" URL="../ADM/ADM/Physical Channels.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -455,7 +453,7 @@
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">Library</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/ADS Actor.lvlib</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Dependencies/Items in Memory/ADS Actor.lvlib</Property>
 				<Property Name="Source[5].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[5].type" Type="Str">Library</Property>
 				<Property Name="Source[6].destinationIndex" Type="Int">0</Property>

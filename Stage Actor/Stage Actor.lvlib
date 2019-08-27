@@ -9,7 +9,6 @@
 </Property>
 	<Item Name="Messages for Stage" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Read Digital Outputs Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Digital Outputs Msg/Read Digital Outputs Msg.lvclass"/>
 		<Item Name="Read Position Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Position Msg/Read Position Msg.lvclass"/>
 		<Item Name="Set Axis Speed Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Axis Speed Msg/Set Axis Speed Msg.lvclass"/>
 		<Item Name="Home Stage Msg.lvclass" Type="LVClass" URL="../Stage Messages/Home Stage Msg/Home Stage Msg.lvclass"/>
@@ -18,6 +17,7 @@
 		<Item Name="Parse Coords Msg.lvclass" Type="LVClass" URL="../Stage Messages/Parse Coords Msg/Parse Coords Msg.lvclass"/>
 		<Item Name="End Print Msg.lvclass" Type="LVClass" URL="../Stage Messages/End Print Msg/End Print Msg.lvclass"/>
 		<Item Name="Set Digital Inputs Msg.lvclass" Type="LVClass" URL="../Stage Messages/Set Digital Inputs Msg/Set Digital Inputs Msg.lvclass"/>
+		<Item Name="Read Pins Msg.lvclass" Type="LVClass" URL="../Stage Messages/Read Pins Msg/Read Pins Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Extract Print Line.vi" Type="VI" URL="../SubVI/Extract Print Line.vi"/>

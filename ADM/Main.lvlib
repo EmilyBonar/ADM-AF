@@ -12,15 +12,15 @@
 	<Item Name="Messages for Main" Type="Folder">
 		<Item Name="Aerosol Opened Msg.lvclass" Type="LVClass" URL="../Main Messages/Aerosol Opened Msg/Aerosol Opened Msg.lvclass"/>
 		<Item Name="Launch Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Launch Actors Msg/Launch Actors Msg.lvclass"/>
+		<Item Name="Print Control Msg.lvclass" Type="LVClass" URL="../Main Messages/Print Control Msg/Print Control Msg.lvclass"/>
 		<Item Name="Quit Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Quit Actors Msg/Quit Actors Msg.lvclass"/>
 		<Item Name="Set Flow Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Flow Msg/Set Flow Msg.lvclass"/>
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
-		<Item Name="Start Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Start Printing Msg/Start Printing Msg.lvclass"/>
-		<Item Name="Stop Printing Msg.lvclass" Type="LVClass" URL="../Main Messages/Stop Printing Msg/Stop Printing Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Config.vi" Type="VI" URL="../ADM/Config.vi"/>
 		<Item Name="Initialize Subpanels.vi" Type="VI" URL="../../SubVIs/Initialize Subpanels.vi"/>
+		<Item Name="Physical Channels.ctl" Type="VI" URL="../ADM/Physical Channels.ctl"/>
 		<Item Name="Task Manager.vi" Type="VI" URL="../ADM/Task Manager.vi"/>
 	</Item>
 	<Item Name="config.ini" Type="Document" URL="../../config.ini"/>
