@@ -16,6 +16,7 @@
 	<Item Name="Messages for Solenoid" Type="Folder">
 		<Item Name="Switch Solenoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Switch Solenoid Msg/Switch Solenoid Msg.lvclass"/>
 		<Item Name="Set Solonoid Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Set Solonoid Msg/Set Solonoid Msg.lvclass"/>
+		<Item Name="Read Msg.lvclass" Type="LVClass" URL="../Solenoid Messages/Read Msg/Read Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Counter" Type="Folder">
 		<Item Name="Print Msg.lvclass" Type="LVClass" URL="../Counter Messages/Print Msg/Print Msg.lvclass"/>
