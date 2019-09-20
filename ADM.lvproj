@@ -412,7 +412,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{66A17605-39C0-43E8-9518-2F1945F3AB7F}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{D723E638-A2F5-4A9E-9A65-1E37F726172C}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="App_winsec.description" Type="Str">http://www.NI.com</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{8DC2DEDC-0802-486E-B840-93C953CE885C}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Aerosol Deposition Machine</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -421,6 +421,8 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{FCC91431-00F2-47EE-8CFF-3DC99EE7D599}</Property>
+				<Property Name="Bld_userLogFile" Type="Path">../builds/Aerosol Deposition Machine/ADM_Aerosol Deposition Machine_log.txt</Property>
+				<Property Name="Bld_userLogFile.pathType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ADM.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Aerosol Deposition Machine/NI_AB_PROJECTNAME.exe</Property>
@@ -431,7 +433,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Aerosol Deposition Machine/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{88D63381-BD2A-48E5-8EF0-FAF1390F6197}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{65A51EC1-5A0E-46CE-991A-B2F413B6363C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Splash Screen.vi</Property>
@@ -453,26 +455,22 @@
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">Library</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Dependencies/Items in Memory/ADS Actor.lvlib</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/My Computer/MFC Actor.lvlib</Property>
 				<Property Name="Source[5].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].type" Type="Str">Library</Property>
 				<Property Name="Source[6].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[6].itemID" Type="Ref">/My Computer/MFC Actor.lvlib</Property>
+				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Pressure Actor.lvlib</Property>
 				<Property Name="Source[6].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[6].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[6].type" Type="Str">Library</Property>
 				<Property Name="Source[7].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Pressure Actor.lvlib</Property>
-				<Property Name="Source[7].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Stage Actor.lvlib/SubVI/PostProcessing.py</Property>
 				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[7].type" Type="Str">Library</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Stage Actor.lvlib/SubVI/PostProcessing.py</Property>
+				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Main.lvlib/config.ini</Property>
 				<Property Name="Source[8].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Main.lvlib/config.ini</Property>
-				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="SourceCount" Type="Int">10</Property>
+				<Property Name="SourceCount" Type="Int">9</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Aerosol Deposition Machine</Property>
 				<Property Name="TgtF_internalName" Type="Str">Aerosol Deposition Machine</Property>
@@ -480,6 +478,7 @@
 				<Property Name="TgtF_productName" Type="Str">Aerosol Deposition Machine</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{5A10077A-E1A4-4DC4-9F06-62153E5D6EC7}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">ADM.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
 	</Item>
