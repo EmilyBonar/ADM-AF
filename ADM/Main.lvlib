@@ -16,6 +16,7 @@
 		<Item Name="Quit Actors Msg.lvclass" Type="LVClass" URL="../Main Messages/Quit Actors Msg/Quit Actors Msg.lvclass"/>
 		<Item Name="Set Flow Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Flow Msg/Set Flow Msg.lvclass"/>
 		<Item Name="Set Print Speeds Msg.lvclass" Type="LVClass" URL="../Main Messages/Set Print Speeds Msg/Set Print Speeds Msg.lvclass"/>
+		<Item Name="Switch Tool Msg.lvclass" Type="LVClass" URL="../Main Messages/Switch Tool Msg/Switch Tool Msg.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Config.vi" Type="VI" URL="../ADM/Config.vi"/>
