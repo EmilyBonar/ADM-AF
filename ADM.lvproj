@@ -47,7 +47,7 @@
 			<Item Name="Actor Framework.html" Type="Document" URL="../documentation/Actor Framework.html"/>
 			<Item Name="Actor Framework Whitepaper.html" Type="Document" URL="../documentation/Actor Framework Whitepaper.html"/>
 		</Item>
-		<Item Name="Splash Screen.vi" Type="VI" URL="../ADM Launcher/Splash Screen.vi"/>
+		<Item Name="Project Launcher.vi" Type="VI" URL="../ADM Launcher/Project Launcher.vi"/>
 		<Item Name="Main.lvlib" Type="Library" URL="../ADM/Main.lvlib"/>
 		<Item Name="Feeder Actor.lvlib" Type="Library" URL="../Feeder Actor/Feeder Actor.lvlib"/>
 		<Item Name="Stage Actor.lvlib" Type="Library" URL="../Stage Actor/Stage Actor.lvlib"/>
@@ -433,10 +433,10 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Aerosol Deposition Machine/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{65A51EC1-5A0E-46CE-991A-B2F413B6363C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7DEAED90-6113-436C-B5DE-67A3CBE8D3A9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Splash Screen.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Project Launcher.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
