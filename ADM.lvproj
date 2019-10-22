@@ -423,6 +423,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{FCC91431-00F2-47EE-8CFF-3DC99EE7D599}</Property>
 				<Property Name="Bld_userLogFile" Type="Path">../builds/Aerosol Deposition Machine/ADM_Aerosol Deposition Machine_log.txt</Property>
 				<Property Name="Bld_userLogFile.pathType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ADM.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Aerosol Deposition Machine/NI_AB_PROJECTNAME.exe</Property>
